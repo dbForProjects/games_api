@@ -1,112 +1,116 @@
 {
   "games": [
     {
-      "id": 1,
-      "title": "Blade and Soul",
-      "thumbnail": "https://www.freetogame.com/g/6/thumbnail.jpg",
-      "game_url": "https://www.freetogame.com/open/blade-and-soul",
-      "genre": "MMORPG",
-      "publisher": "NCSoft",
-      "smallImgs": [
-        {
-          "img": "https://imgs.search.brave.com/V9-uCDepzAaV1ZLwuUOrk_fNKCiAfBtYVPgsyn5G994/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9y/cGcuZ2cvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMTEvQmxh/ZGUtYW5kLVNvdWwt/R2FtZXBsYXktUmV2/aWV3LTEwMjR4NTc2/LmpwZw"
-        },
-        {
-          "img": "https://imgs.search.brave.com/PMK4Og4JbqcYWOynvCVyq6beIPKOp31PhG43a9fScLk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9HWXhOelZo/TW1VdFptTmpNUzAw/T0dReExUZ3hZVGd0/Wm1ZMU16YzFOelZt/T1dJeVhrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
-        },
-        {
-          "img": "https://imgs.search.brave.com/oltWQxRggYJHJczjMtT7RoSemubDVBJDwI2D3TXljMY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk0yTmlORFV3/TmpRdFpEQTVZeTAw/WVdNNUxUbGtPREF0/WXpneFpUa3pPR0U1/TkRoa1hrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
-        },
-        {
-          "img": "https://imgs.search.brave.com/bxETaJumHOEctQFfRHZwNHG87alm-UDZbYRog_VPhYs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/YmxhZGUtYW5kLXNv/dWwtb3ZlcnZpZXct/MS0yL2NhY2hlL2Js/YWRlLWFuZC1zb3Vs/LXB2cC5qcGctbmdn/aWQwNTQzNzA4LW5n/ZzBkeW4tNjAweDMz/OHgxMDAtMDBmMHcw/MTBjMDEwcjExMGYx/MTByMDEwdDAxMC5q/cGc"
-        }
-      ],
-      "rate": 4.0,
-      "age_rate": 13,
-      "downloads": "9.5K",
-      "storage": "5.6GB",
-      "content": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks. Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
-    },
-    {
-      "id": 2,
-      "title": "Trove",
-      "thumbnail": "https://www.freetogame.com/g/8/thumbnail.jpg",
-      "game_url": "https://www.freetogame.com/open/trove",
-      "genre": "MMORPG",
-      "publisher": "Trion Worlds",
-      "rate": 4.3,
-      "smallImgs": [
-        {
-          "img": "https://imgs.search.brave.com/7D0pc_QnfVCF_NTJPoreETJz1YDLlpVduphjpKQBBrk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMTEwLzA3MTkv/aG9MV0tSbUJSaElB/dVpHTWZkVHdmb2RO/LmpwZw"
-        },
-        {
-          "img": "https://imgs.search.brave.com/JVcvlegrss_JRqQqYQUAN1u1rCupZ6gNrIPig5qEZ2Q/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5tbW9ycGcuY29t/L2ltYWdlcy9oZXJv/ZXMvbmV3cy81MjYz/My5qcGc"
-        },
-        {
-          "img": "https://imgs.search.brave.com/DFUnREx-ldl7iuqggccY5MgtxQu23QPuBUSTatzA5l4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/dHJvdmUvY2FjaGUv/dHJvdmUtbG9vdC1n/YWxvcmUuanBnLW5n/Z2lkMDUyODU3NS1u/Z2cwZHluLTYwMHgz/Mzh4MTAwLTAwZjB3/MDEwYzAxMHIxMTBm/MTEwcjAxMHQwMTAu/anBn"
-        },
-        {
-          "img": "https://imgs.search.brave.com/aQSbHzMZ3IEC9_UH_D36re7A8UEly4FE3BHxtmFJ3Yg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bWV0YWNyaXRpYy5j/b20vYS9pbWcvY2F0/YWxvZy9wcm92aWRl/ci82LzEyLzYtMS02/MDQxNTYtNTIuanBn"
-        }
-      ],
-      "age_rate": 10,
-      "storage": "2.6GB",
-      "downloads": "5.8K",
-      "content": "A free to play Sandbox massively multiplayer online role-playing game! Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
-    },
-    {
-      "id": 3,
-      "title": "ArcheAge",
-      "thumbnail": "https://www.freetogame.com/g/10/thumbnail.jpg",
-      "game_url": "https://www.freetogame.com/open/archeage",
-      "genre": "MMORPG",
-      "publisher": "Kakao Games",
-      "rate": 4.5,
-      "age_rate": 12,
-      "smallImgs": [
-        {
-          "img": "https://imgs.search.brave.com/zV3xoHY78o6DXFgX-jYpKEl_Ex8sQN-_Wz89FoXSeuY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/YXJjaGVhZ2UvY2Fj/aGUvYXJjaGVhZ2Ut/bW1vcy1zY3JlZW5p/ZS5qcGctbmdnaWQw/NTY3MDUyLW5nZzBk/eW4tNjAweDMzOHgx/MDAtMDBmMHcwMTBj/MDEwcjExMGYxMTBy/MDEwdDAxMC5qcGc"
-        },
-        {
-          "img": "https://imgs.search.brave.com/vNnnd4HFE2spAD3wcMiMxg_CF4CUDShsvLSysTWXhYU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hcmNo/ZWFnZS1kb3dubG9h/ZDEueGxnYW1lcy5j/b20vd2ViMC9wcmV2/aWV3X2VuL3Jlc18x/L2ltYWdlcy9zaGlw/L3dhcmZhcmUuanBn"
-        },
-        {
-          "img": "https://imgs.search.brave.com/zV3xoHY78o6DXFgX-jYpKEl_Ex8sQN-_Wz89FoXSeuY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/YXJjaGVhZ2UvY2Fj/aGUvYXJjaGVhZ2Ut/bW1vcy1zY3JlZW5p/ZS5qcGctbmdnaWQw/NTY3MDUyLW5nZzBk/eW4tNjAweDMzOHgx/MDAtMDBmMHcwMTBj/MDEwcjExMGYxMTBy/MDEwdDAxMC5qcGc"
-        },
-        {
-          "img": "https://imgs.search.brave.com/ncUImlksk7hHLL5Ywd669ykYYCeZS6Do7dQE-ewiFnQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW1vY3VsdHVyZS5j/b20vbW1vLWltYWdl/cy8yMDIzLzAyL0Fy/Y2hlQWdlLVdhci1p/bWFnZS02NDB4NDUw/LnBuZw"
-        }
-      ],
-      "downloads": "12K",
-      "storage": "1.5GB",
-      "content": "A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds. Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
-    },
-    {
-      "id": 4,
-      "title": "Neverwinter",
-      "thumbnail": "https://www.freetogame.com/g/11/thumbnail.jpg",
-      "game_url": "https://www.freetogame.com/open/neverwinter",
-      "genre": "MMORPG",
-      "publisher": "Perfect World Entertainment",
-      "rate": 4.6,
-      "smallImgs": [
-        {
-          "img": "https://imgs.search.brave.com/fyAzIvPoTzradETgn_7nRR2dZ0ckjiZbTWMdohvQ6Dg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wd2lt/YWdlcy1hLmFrYW1h/aWhkLm5ldC9hcmMv/YzcvYjMvYzdiMzYz/MWZlMTI4ODI0ZDY1/Y2Q5YmE2OWQ0ZGQy/N2QxNDMyMjQzMjc1/XzY1NngzNjkuanBn"
-        },
-        {
-          "img": "https://imgs.search.brave.com/xGw5sQ1ZYAppTAvKII2cX-z0cpJJVc92VsRPSYTVyzY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMzExLzA2MjMv/NmViY2IwYjliNjlk/MmM3YzczZWYzYWNk/YjUxYjA4YjQ3MWE0/MzI0YmM5MzQ3YmM3/LmpwZw"
-        },
-        {
-          "img": "https://imgs.search.brave.com/W_eFSnsidHth-n5LeZkVTi2Tq6h9fY2OfXO8w6dresM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9y/cGcuZ2cvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDYvTmV2/ZXJ3aW50ZXItRHJh/Z29uYm9uZS1WYWxl/LmpwZw"
-        },
-        {
-          "img": "https://imgs.search.brave.com/HVskn1W_y6No5Xqg1uG-gaykYEa82mJr-WXMA8Xdg5s/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMzA3LzA1MTcv/MzYwMzIwZmRhZDc0/Yjg1MjFlNmViYzBm/ZDgyNjIzMGYyMWQx/MDRiMjUxYzAwZmQ0/LmpwZw"
-        }
-      ],
-      "age_rate": 7,
-      "downloads": "14K",
-      "storage": "5.3MB",
-      "content": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game.  Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
-    }
+    "id": 1,
+    "title": "Blade and Soul",
+    "thumbnail": "https://themedox.com/mykd/wp-content/uploads/2023/10/gallery01.jpg",
+    "game_url": "https://www.freetogame.com/open/blade-and-soul",
+    "genre": "MMORPG",
+    "publisher": "NCSoft",
+    "smallImgs": [
+      {
+        "img": "https://imgs.search.brave.com/V9-uCDepzAaV1ZLwuUOrk_fNKCiAfBtYVPgsyn5G994/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9y/cGcuZ2cvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMTEvQmxh/ZGUtYW5kLVNvdWwt/R2FtZXBsYXktUmV2/aWV3LTEwMjR4NTc2/LmpwZw"
+      },
+      {
+        "img": "https://imgs.search.brave.com/PMK4Og4JbqcYWOynvCVyq6beIPKOp31PhG43a9fScLk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9HWXhOelZo/TW1VdFptTmpNUzAw/T0dReExUZ3hZVGd0/Wm1ZMU16YzFOelZt/T1dJeVhrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
+      },
+      {
+        "img": "https://imgs.search.brave.com/oltWQxRggYJHJczjMtT7RoSemubDVBJDwI2D3TXljMY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk0yTmlORFV3/TmpRdFpEQTVZeTAw/WVdNNUxUbGtPREF0/WXpneFpUa3pPR0U1/TkRoa1hrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
+      },
+      {
+        "img": "https://imgs.search.brave.com/bxETaJumHOEctQFfRHZwNHG87alm-UDZbYRog_VPhYs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/YmxhZGUtYW5kLXNv/dWwtb3ZlcnZpZXct/MS0yL2NhY2hlL2Js/YWRlLWFuZC1zb3Vs/LXB2cC5qcGctbmdn/aWQwNTQzNzA4LW5n/ZzBkeW4tNjAweDMz/OHgxMDAtMDBmMHcw/MTBjMDEwcjExMGYx/MTByMDEwdDAxMC5q/cGc"
+      }
+    ],
+    "rate": 4,
+    "ratePer": "50%",
+    "age_rate": 13,
+    "downloads": "9.5K",
+    "storage": "5.6GB",
+    "content": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks. Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
+  },
+  {
+    "id": 2,
+    "title": "Trove",
+    "thumbnail": "https://themedox.com/mykd/wp-content/uploads/2023/10/gallery05.jpg",
+    "game_url": "https://www.freetogame.com/open/trove",
+    "genre": "MMORPG",
+    "publisher": "Trion Worlds",
+    "rate": 4.3,
+    "ratePer": "60%",
+    "smallImgs": [
+      {
+        "img": "https://imgs.search.brave.com/7D0pc_QnfVCF_NTJPoreETJz1YDLlpVduphjpKQBBrk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMTEwLzA3MTkv/aG9MV0tSbUJSaElB/dVpHTWZkVHdmb2RO/LmpwZw"
+      },
+      {
+        "img": "https://imgs.search.brave.com/JVcvlegrss_JRqQqYQUAN1u1rCupZ6gNrIPig5qEZ2Q/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5tbW9ycGcuY29t/L2ltYWdlcy9oZXJv/ZXMvbmV3cy81MjYz/My5qcGc"
+      },
+      {
+        "img": "https://imgs.search.brave.com/DFUnREx-ldl7iuqggccY5MgtxQu23QPuBUSTatzA5l4/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/dHJvdmUvY2FjaGUv/dHJvdmUtbG9vdC1n/YWxvcmUuanBnLW5n/Z2lkMDUyODU3NS1u/Z2cwZHluLTYwMHgz/Mzh4MTAwLTAwZjB3/MDEwYzAxMHIxMTBm/MTEwcjAxMHQwMTAu/anBn"
+      },
+      {
+        "img": "https://imgs.search.brave.com/aQSbHzMZ3IEC9_UH_D36re7A8UEly4FE3BHxtmFJ3Yg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly93d3cu/bWV0YWNyaXRpYy5j/b20vYS9pbWcvY2F0/YWxvZy9wcm92aWRl/ci82LzEyLzYtMS02/MDQxNTYtNTIuanBn"
+      }
+    ],
+    "age_rate": 10,
+    "storage": "2.6GB",
+    "downloads": "5.8K",
+    "content": "A free to play Sandbox massively multiplayer online role-playing game! Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
+  },
+  {
+    "id": 3,
+    "title": "ArcheAge",
+    "thumbnail": "https://themedox.com/mykd/wp-content/uploads/2023/10/gallery02.jpg",
+    "game_url": "https://www.freetogame.com/open/archeage",
+    "genre": "MMORPG",
+    "publisher": "Kakao Games",
+    "rate": 4.5,
+    "ratePer": "45%",
+    "age_rate": 12,
+    "smallImgs": [
+      {
+        "img": "https://imgs.search.brave.com/zV3xoHY78o6DXFgX-jYpKEl_Ex8sQN-_Wz89FoXSeuY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/YXJjaGVhZ2UvY2Fj/aGUvYXJjaGVhZ2Ut/bW1vcy1zY3JlZW5p/ZS5qcGctbmdnaWQw/NTY3MDUyLW5nZzBk/eW4tNjAweDMzOHgx/MDAtMDBmMHcwMTBj/MDEwcjExMGYxMTBy/MDEwdDAxMC5qcGc"
+      },
+      {
+        "img": "https://imgs.search.brave.com/vNnnd4HFE2spAD3wcMiMxg_CF4CUDShsvLSysTWXhYU/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9hcmNo/ZWFnZS1kb3dubG9h/ZDEueGxnYW1lcy5j/b20vd2ViMC9wcmV2/aWV3X2VuL3Jlc18x/L2ltYWdlcy9zaGlw/L3dhcmZhcmUuanBn"
+      },
+      {
+        "img": "https://imgs.search.brave.com/zV3xoHY78o6DXFgX-jYpKEl_Ex8sQN-_Wz89FoXSeuY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/YXJjaGVhZ2UvY2Fj/aGUvYXJjaGVhZ2Ut/bW1vcy1zY3JlZW5p/ZS5qcGctbmdnaWQw/NTY3MDUyLW5nZzBk/eW4tNjAweDMzOHgx/MDAtMDBmMHcwMTBj/MDEwcjExMGYxMTBy/MDEwdDAxMC5qcGc"
+      },
+      {
+        "img": "https://imgs.search.brave.com/ncUImlksk7hHLL5Ywd669ykYYCeZS6Do7dQE-ewiFnQ/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9jZG4u/bW1vY3VsdHVyZS5j/b20vbW1vLWltYWdl/cy8yMDIzLzAyL0Fy/Y2hlQWdlLVdhci1p/bWFnZS02NDB4NDUw/LnBuZw"
+      }
+    ],
+    "downloads": "12K",
+    "storage": "1.5GB",
+    "content": "A free-to-play, hybrid fantasy/sandbox MMORPG brought to you by Trion Worlds. Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
+  },
+  {
+    "id": 4,
+    "title": "Neverwinter",
+    "thumbnail": "https://themedox.com/mykd/wp-content/uploads/2023/10/gallery03.jpg",
+    "game_url": "https://www.freetogame.com/open/neverwinter",
+    "genre": "MMORPG",
+    "publisher": "Perfect World Entertainment",
+    "rate": 4.6,
+    "ratePer": "56%",
+    "smallImgs": [
+      {
+        "img": "https://imgs.search.brave.com/fyAzIvPoTzradETgn_7nRR2dZ0ckjiZbTWMdohvQ6Dg/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9wd2lt/YWdlcy1hLmFrYW1h/aWhkLm5ldC9hcmMv/YzcvYjMvYzdiMzYz/MWZlMTI4ODI0ZDY1/Y2Q5YmE2OWQ0ZGQy/N2QxNDMyMjQzMjc1/XzY1NngzNjkuanBn"
+      },
+      {
+        "img": "https://imgs.search.brave.com/xGw5sQ1ZYAppTAvKII2cX-z0cpJJVc92VsRPSYTVyzY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMzExLzA2MjMv/NmViY2IwYjliNjlk/MmM3YzczZWYzYWNk/YjUxYjA4YjQ3MWE0/MzI0YmM5MzQ3YmM3/LmpwZw"
+      },
+      {
+        "img": "https://imgs.search.brave.com/W_eFSnsidHth-n5LeZkVTi2Tq6h9fY2OfXO8w6dresM/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9y/cGcuZ2cvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMDYvTmV2/ZXJ3aW50ZXItRHJh/Z29uYm9uZS1WYWxl/LmpwZw"
+      },
+      {
+        "img": "https://imgs.search.brave.com/HVskn1W_y6No5Xqg1uG-gaykYEa82mJr-WXMA8Xdg5s/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZS5hcGkucGxheXN0/YXRpb24uY29tL3Z1/bGNhbi9hcC9ybmQv/MjAyMzA3LzA1MTcv/MzYwMzIwZmRhZDc0/Yjg1MjFlNmViYzBm/ZDgyNjIzMGYyMWQx/MDRiMjUxYzAwZmQ0/LmpwZw"
+      }
+    ],
+    "age_rate": 7,
+    "downloads": "14K",
+    "storage": "5.3MB",
+    "content": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game.  Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
+  }
   ]
 }
