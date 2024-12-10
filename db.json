@@ -1,6 +1,6 @@
 {
   "games": [
-          "id": 1,
+         { "id": 1,
     "title": "Blade and Soul",
     "thumbnail": "https://themedox.com/mykd/wp-content/uploads/2023/10/gallery01.jpg",
     "game_url": "https://www.freetogame.com/open/blade-and-soul",
