@@ -1,7 +1,6 @@
 {
   "games": [
-    {
-    "id": 1,
+          "id": 1,
     "title": "Blade and Soul",
     "thumbnail": "https://themedox.com/mykd/wp-content/uploads/2023/10/gallery01.jpg",
     "game_url": "https://www.freetogame.com/open/blade-and-soul",
@@ -111,6 +110,6 @@
     "downloads": "14K",
     "storage": "5.3MB",
     "content": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game.  Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
-  }
+  },
   ]
 }
