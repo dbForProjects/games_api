@@ -1,33 +1,33 @@
 {
   "games": [
-        {
-    "id": 1,
-    "title": "Blade and Soul",
-    "thumbnail": "https://themedox.com/mykd/wp-content/uploads/2023/10/gallery01.jpg",
-    "game_url": "https://www.freetogame.com/open/blade-and-soul",
-    "genre": "MMORPG",
-    "publisher": "NCSoft",
-    "smallImgs": [
       {
-        "img": "https://imgs.search.brave.com/V9-uCDepzAaV1ZLwuUOrk_fNKCiAfBtYVPgsyn5G994/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9y/cGcuZ2cvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMTEvQmxh/ZGUtYW5kLVNvdWwt/R2FtZXBsYXktUmV2/aWV3LTEwMjR4NTc2/LmpwZw"
+        "id": 1,
+        "title": "Blade and Soul",
+        "thumbnail": "https://themedox.com/mykd/wp-content/uploads/2023/10/gallery01.jpg",
+        "game_url": "https://www.freetogame.com/open/blade-and-soul",
+        "genre": "MMORPG",
+        "publisher": "NCSoft",
+        "smallImgs": [
+          {
+            "img": "https://imgs.search.brave.com/V9-uCDepzAaV1ZLwuUOrk_fNKCiAfBtYVPgsyn5G994/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9y/cGcuZ2cvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjIvMTEvQmxh/ZGUtYW5kLVNvdWwt/R2FtZXBsYXktUmV2/aWV3LTEwMjR4NTc2/LmpwZw"
+          },
+          {
+            "img": "https://imgs.search.brave.com/PMK4Og4JbqcYWOynvCVyq6beIPKOp31PhG43a9fScLk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9HWXhOelZo/TW1VdFptTmpNUzAw/T0dReExUZ3hZVGd0/Wm1ZMU16YzFOelZt/T1dJeVhrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
+          },
+          {
+            "img": "https://imgs.search.brave.com/oltWQxRggYJHJczjMtT7RoSemubDVBJDwI2D3TXljMY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk0yTmlORFV3/TmpRdFpEQTVZeTAw/WVdNNUxUbGtPREF0/WXpneFpUa3pPR0U1/TkRoa1hrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
+          },
+          {
+            "img": "https://imgs.search.brave.com/bxETaJumHOEctQFfRHZwNHG87alm-UDZbYRog_VPhYs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/YmxhZGUtYW5kLXNv/dWwtb3ZlcnZpZXct/MS0yL2NhY2hlL2Js/YWRlLWFuZC1zb3Vs/LXB2cC5qcGctbmdn/aWQwNTQzNzA4LW5n/ZzBkeW4tNjAweDMz/OHgxMDAtMDBmMHcw/MTBjMDEwcjExMGYx/MTByMDEwdDAxMC5q/cGc"
+          }
+        ],
+        "rate": 4,
+        "ratePer": "50%",
+        "age_rate": 13,
+        "downloads": "9.5K",
+        "storage": "5.6GB",
+        "content": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks. Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
       },
-      {
-        "img": "https://imgs.search.brave.com/PMK4Og4JbqcYWOynvCVyq6beIPKOp31PhG43a9fScLk/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk9HWXhOelZo/TW1VdFptTmpNUzAw/T0dReExUZ3hZVGd0/Wm1ZMU16YzFOelZt/T1dJeVhrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
-      },
-      {
-        "img": "https://imgs.search.brave.com/oltWQxRggYJHJczjMtT7RoSemubDVBJDwI2D3TXljMY/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tLm1l/ZGlhLWFtYXpvbi5j/b20vaW1hZ2VzL00v/TVY1Qk0yTmlORFV3/TmpRdFpEQTVZeTAw/WVdNNUxUbGtPREF0/WXpneFpUa3pPR0U1/TkRoa1hrRXlYa0Zx/Y0dkZVFYUnlZVzV6/WTI5a1pTMTNiM0py/Wm14dmR3QEAuX1Yx/X1FMNzVfVVg1MDBf/Q1IwLDAsNTAwLDI4/MV8uanBn"
-      },
-      {
-        "img": "https://imgs.search.brave.com/bxETaJumHOEctQFfRHZwNHG87alm-UDZbYRog_VPhYs/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9tbW9z/LmNvbS93cC1jb250/ZW50L2dhbGxlcnkv/YmxhZGUtYW5kLXNv/dWwtb3ZlcnZpZXct/MS0yL2NhY2hlL2Js/YWRlLWFuZC1zb3Vs/LXB2cC5qcGctbmdn/aWQwNTQzNzA4LW5n/ZzBkeW4tNjAweDMz/OHgxMDAtMDBmMHcw/MTBjMDEwcjExMGYx/MTByMDEwdDAxMC5q/cGc"
-      }
-    ],
-    "rate": 4,
-    "ratePer": "50%",
-    "age_rate": 13,
-    "downloads": "9.5K",
-    "storage": "5.6GB",
-    "content": "A free-to-play martial arts MMORPG that tasks players with learning combination attacks. Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
-  },
   {
     "id": 2,
     "title": "Trove",
@@ -111,6 +111,6 @@
     "downloads": "14K",
     "storage": "5.3MB",
     "content": "A free-to-play 3D action MMORPG based on the acclaimed Dungeons & Dragons fantasy roleplaying game.  Alias, dignissimos obcaecati? Consequatur tempora officiis aspernatur vitae nemo illum."
-  },
+  }
   ]
 }
